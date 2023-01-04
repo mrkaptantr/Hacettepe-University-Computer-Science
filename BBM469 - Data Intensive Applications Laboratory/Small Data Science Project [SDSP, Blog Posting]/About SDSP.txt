@@ -1,0 +1,15 @@
+SDSP proposals
+Dear all,
+As a small data science project (SDSP), you will prepare a blog post.
+What you are going to post about is up to you. You can pick a topic from data science, machine learning, deep learning, nlp, and/or programming tricks about data manipulation. Should your post include any code, it must be in Python.
+Some example posts are available below. Have a look and try to understand how your post should feel like.
+https://www.thegoodclass.net/
+How will I grade your posts?
+First, I should find your post interesting enough to publish on my blog (with your name). It should be something worth googling for. I suggest that you ask for my opinion about the title of your post before preparing it. You can use the form below for that. 
+https://forms.gle/de6YCc6vKgsAKKZc8
+You can write, for instance, a post about a difficulty that you faced in your DSCP.   Or, anything you like. But, it must be self contained. That is, an average person should understand easily what you are trying to say.
+Your post must be an output of a meticulous job.  Do not simply copy and paste images, text, or codes from somewhere else. Try to come up with your original material. 
+If you have to use somebody else’s material, you must properly refer to it.
+You should write with your own sentences. I will use turnitin to detect plagiarism. If your post is very similar (>15%) to another work, I will consider it cheating.
+Do not use a serious language. Be frank, positive, humble, and relatively informal. Assume yourself as a person who is talking to her/his dear followers or friends. 
+Ps. I will distribute a template later.
