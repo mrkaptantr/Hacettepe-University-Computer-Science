@@ -1,0 +1,20 @@
+#Gravity Calculator
+#
+#First Input: Falling Time
+#Second Input: Inıtıal Position
+#Third Input: Initial Velocity
+#
+#How To Use? Just write correct Input values by given order.
+0 setn r1 -10
+1 read r2
+2 read r3
+3 read r4
+4 setn r11 2
+5 mul r9 r2 r2
+6 mul r8 r9 r1
+7 div r12 r8 r11 
+8 mul r7 r2 r4
+9 add r6 r12 r7
+10 add r5 r6 r3
+11 write r5
+12 halt
