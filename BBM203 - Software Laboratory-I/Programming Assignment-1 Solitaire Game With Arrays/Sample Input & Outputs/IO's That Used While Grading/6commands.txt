@@ -1,0 +1,8 @@
+open from stock
+open from stock
+move waste 2
+move waste 1
+move waste 0
+move waste 1
+move waste 1
+exit

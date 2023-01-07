@@ -1,0 +1,20 @@
+open from stock
+move waste 0
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+open from stock
+exit
