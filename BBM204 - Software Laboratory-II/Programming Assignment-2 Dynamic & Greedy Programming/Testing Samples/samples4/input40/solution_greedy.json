@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Assignment0",
+    "start": "00:00",
+    "duration": 1,
+    "importance": 84,
+    "maellard": true
+  },
+  {
+    "name": "Assignment2",
+    "start": "01:00",
+    "duration": 1,
+    "importance": 51,
+    "maellard": true
+  },
+  {
+    "name": "Assignment5",
+    "start": "02:30",
+    "duration": 1,
+    "importance": 0,
+    "maellard": true
+  },
+  {
+    "name": "Assignment7",
+    "start": "03:30",
+    "duration": 2,
+    "importance": 60,
+    "maellard": false
+  },
+  {
+    "name": "Assignment11",
+    "start": "05:30",
+    "duration": 1,
+    "importance": 50,
+    "maellard": true
+  },
+  {
+    "name": "Assignment13",
+    "start": "06:30",
+    "duration": 1,
+    "importance": 18,
+    "maellard": true
+  },
+  {
+    "name": "Assignment15",
+    "start": "07:30",
+    "duration": 1,
+    "importance": 26,
+    "maellard": false
+  },
+  {
+    "name": "Assignment17",
+    "start": "08:30",
+    "duration": 1,
+    "importance": 12,
+    "maellard": false
+  },
+  {
+    "name": "Assignment19",
+    "start": "09:30",
+    "duration": 2,
+    "importance": 19,
+    "maellard": true
+  },
+  {
+    "name": "Assignment23",
+    "start": "11:30",
+    "duration": 1,
+    "importance": 14,
+    "maellard": false
+  },
+  {
+    "name": "Assignment25",
+    "start": "12:30",
+    "duration": 1,
+    "importance": 35,
+    "maellard": true
+  },
+  {
+    "name": "Assignment27",
+    "start": "13:30",
+    "duration": 1,
+    "importance": 99,
+    "maellard": false
+  },
+  {
+    "name": "Assignment29",
+    "start": "14:30",
+    "duration": 2,
+    "importance": 4,
+    "maellard": true
+  },
+  {
+    "name": "Assignment34",
+    "start": "17:00",
+    "duration": 1,
+    "importance": 34,
+    "maellard": false
+  },
+  {
+    "name": "Assignment36",
+    "start": "18:00",
+    "duration": 1,
+    "importance": 66,
+    "maellard": false
+  },
+  {
+    "name": "Assignment38",
+    "start": "19:00",
+    "duration": 1,
+    "importance": 1,
+    "maellard": true
+  }
+]
