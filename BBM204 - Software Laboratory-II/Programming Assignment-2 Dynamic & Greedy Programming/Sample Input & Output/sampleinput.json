@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Rake the leaves",
+    "start": "09:00",
+    "duration": 3,
+    "importance": 30,
+    "maellard": false
+  },
+  {
+    "name": "Organize a movie night",
+    "start": "17:00",
+    "duration": 1,
+    "importance": 6,
+    "maellard": false
+  },
+  {
+    "name": "Clean the fountain",
+    "start": "10:00",
+    "duration": 5,
+    "importance": 61,
+    "maellard": true
+  },
+  {
+    "name": "Refill vending machines",
+    "start": "12:00",
+    "duration": 1,
+    "importance": 45,
+    "maellard": false
+  },
+  {
+    "name": "Wash Benson's car",
+    "start": "16:00",
+    "duration": 1,
+    "importance": 12,
+    "maellard": false
+  },
+  {
+    "name": "Help Pops find where the sky is ",
+    "start": "16:00",
+    "duration": 1,
+    "importance": 6,
+    "maellard": false
+  }
+]

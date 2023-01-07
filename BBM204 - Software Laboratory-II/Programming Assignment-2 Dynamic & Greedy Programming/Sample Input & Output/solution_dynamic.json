@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Clean the fountain",
+    "start": "10:00",
+    "duration": 5,
+    "importance": 61,
+    "maellard": true
+  },
+  {
+    "name": "Wash Benson's car",
+    "start": "16:00",
+    "duration": 1,
+    "importance": 12,
+    "maellard": false
+  },
+  {
+    "name": "Organize a movie night",
+    "start": "17:00",
+    "duration": 1,
+    "importance": 6,
+    "maellard": false
+  }
+]
