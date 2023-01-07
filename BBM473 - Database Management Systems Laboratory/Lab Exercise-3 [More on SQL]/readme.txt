@@ -1,5 +1,4 @@
 Grade: ??/100
 
-Strengths:
-
-Deficiencies:
+Deficiencies (if exists):
+- (???)
