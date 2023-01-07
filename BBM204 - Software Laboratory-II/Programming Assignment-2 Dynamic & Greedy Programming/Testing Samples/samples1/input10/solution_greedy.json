@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Assignment0",
+    "start": "00:00",
+    "duration": 1,
+    "importance": 1,
+    "maellard": true
+  },
+  {
+    "name": "Assignment2",
+    "start": "01:00",
+    "duration": 1,
+    "importance": 36,
+    "maellard": false
+  },
+  {
+    "name": "Assignment4",
+    "start": "02:00",
+    "duration": 1,
+    "importance": 40,
+    "maellard": false
+  },
+  {
+    "name": "Assignment6",
+    "start": "03:00",
+    "duration": 1,
+    "importance": 59,
+    "maellard": false
+  },
+  {
+    "name": "Assignment8",
+    "start": "04:00",
+    "duration": 1,
+    "importance": 28,
+    "maellard": false
+  }
+]

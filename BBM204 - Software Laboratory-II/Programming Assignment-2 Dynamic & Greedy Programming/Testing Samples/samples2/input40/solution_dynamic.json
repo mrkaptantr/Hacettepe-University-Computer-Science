@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Assignment0",
+    "start": "00:00",
+    "duration": 2,
+    "importance": 88,
+    "maellard": true
+  },
+  {
+    "name": "Assignment4",
+    "start": "02:00",
+    "duration": 1,
+    "importance": 39,
+    "maellard": true
+  },
+  {
+    "name": "Assignment6",
+    "start": "03:00",
+    "duration": 1,
+    "importance": 54,
+    "maellard": true
+  },
+  {
+    "name": "Assignment10",
+    "start": "05:00",
+    "duration": 2,
+    "importance": 78,
+    "maellard": true
+  },
+  {
+    "name": "Assignment16",
+    "start": "08:00",
+    "duration": 2,
+    "importance": 42,
+    "maellard": true
+  },
+  {
+    "name": "Assignment21",
+    "start": "10:30",
+    "duration": 1,
+    "importance": 54,
+    "maellard": true
+  },
+  {
+    "name": "Assignment23",
+    "start": "11:30",
+    "duration": 2,
+    "importance": 77,
+    "maellard": true
+  },
+  {
+    "name": "Assignment27",
+    "start": "13:30",
+    "duration": 1,
+    "importance": 76,
+    "maellard": true
+  },
+  {
+    "name": "Assignment29",
+    "start": "14:30",
+    "duration": 1,
+    "importance": 77,
+    "maellard": false
+  },
+  {
+    "name": "Assignment32",
+    "start": "16:00",
+    "duration": 2,
+    "importance": 63,
+    "maellard": true
+  },
+  {
+    "name": "Assignment37",
+    "start": "18:30",
+    "duration": 1,
+    "importance": 36,
+    "maellard": true
+  },
+  {
+    "name": "Assignment39",
+    "start": "19:30",
+    "duration": 1,
+    "importance": 67,
+    "maellard": false
+  }
+]

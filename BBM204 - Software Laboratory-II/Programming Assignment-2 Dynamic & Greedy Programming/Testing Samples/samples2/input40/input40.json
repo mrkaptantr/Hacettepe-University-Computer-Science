@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Assignment0",
+    "start": "00:00",
+    "duration": 2,
+    "importance": 88,
+    "maellard": true
+  },
+  {
+    "name": "Assignment1",
+    "start": "00:30",
+    "duration": 2,
+    "importance": 79,
+    "maellard": false
+  },
+  {
+    "name": "Assignment2",
+    "start": "01:00",
+    "duration": 1,
+    "importance": 84,
+    "maellard": false
+  },
+  {
+    "name": "Assignment3",
+    "start": "01:30",
+    "duration": 2,
+    "importance": 97,
+    "maellard": true
+  },
+  {
+    "name": "Assignment4",
+    "start": "02:00",
+    "duration": 1,
+    "importance": 39,
+    "maellard": true
+  },
+  {
+    "name": "Assignment5",
+    "start": "02:30",
+    "duration": 1,
+    "importance": 59,
+    "maellard": false
+  },
+  {
+    "name": "Assignment6",
+    "start": "03:00",
+    "duration": 1,
+    "importance": 54,
+    "maellard": true
+  },
+  {
+    "name": "Assignment7",
+    "start": "03:30",
+    "duration": 2,
+    "importance": 42,
+    "maellard": false
+  },
+  {
+    "name": "Assignment8",
+    "start": "04:00",
+    "duration": 2,
+    "importance": 46,
+    "maellard": false
+  },
+  {
+    "name": "Assignment9",
+    "start": "04:30",
+    "duration": 2,
+    "importance": 30,
+    "maellard": false
+  },
+  {
+    "name": "Assignment10",
+    "start": "05:00",
+    "duration": 2,
+    "importance": 78,
+    "maellard": true
+  },
+  {
+    "name": "Assignment11",
+    "start": "05:30",
+    "duration": 1,
+    "importance": 37,
+    "maellard": false
+  },
+  {
+    "name": "Assignment12",
+    "start": "06:00",
+    "duration": 2,
+    "importance": 13,
+    "maellard": false
+  },
+  {
+    "name": "Assignment13",
+    "start": "06:30",
+    "duration": 2,
+    "importance": 33,
+    "maellard": false
+  },
+  {
+    "name": "Assignment14",
+    "start": "07:00",
+    "duration": 2,
+    "importance": 80,
+    "maellard": false
+  },
+  {
+    "name": "Assignment15",
+    "start": "07:30",
+    "duration": 1,
+    "importance": 74,
+    "maellard": false
+  },
+  {
+    "name": "Assignment16",
+    "start": "08:00",
+    "duration": 2,
+    "importance": 42,
+    "maellard": true
+  },
+  {
+    "name": "Assignment17",
+    "start": "08:30",
+    "duration": 1,
+    "importance": 3,
+    "maellard": false
+  },
+  {
+    "name": "Assignment18",
+    "start": "09:00",
+    "duration": 2,
+    "importance": 49,
+    "maellard": false
+  },
+  {
+    "name": "Assignment19",
+    "start": "09:30",
+    "duration": 2,
+    "importance": 75,
+    "maellard": true
+  },
+  {
+    "name": "Assignment20",
+    "start": "10:00",
+    "duration": 1,
+    "importance": 19,
+    "maellard": true
+  },
+  {
+    "name": "Assignment21",
+    "start": "10:30",
+    "duration": 1,
+    "importance": 54,
+    "maellard": true
+  },
+  {
+    "name": "Assignment22",
+    "start": "11:00",
+    "duration": 2,
+    "importance": 93,
+    "maellard": true
+  },
+  {
+    "name": "Assignment23",
+    "start": "11:30",
+    "duration": 2,
+    "importance": 77,
+    "maellard": true
+  },
+  {
+    "name": "Assignment24",
+    "start": "12:00",
+    "duration": 1,
+    "importance": 47,
+    "maellard": false
+  },
+  {
+    "name": "Assignment25",
+    "start": "12:30",
+    "duration": 1,
+    "importance": 83,
+    "maellard": false
+  },
+  {
+    "name": "Assignment26",
+    "start": "13:00",
+    "duration": 1,
+    "importance": 23,
+    "maellard": false
+  },
+  {
+    "name": "Assignment27",
+    "start": "13:30",
+    "duration": 1,
+    "importance": 76,
+    "maellard": true
+  },
+  {
+    "name": "Assignment28",
+    "start": "14:00",
+    "duration": 2,
+    "importance": 96,
+    "maellard": false
+  },
+  {
+    "name": "Assignment29",
+    "start": "14:30",
+    "duration": 1,
+    "importance": 77,
+    "maellard": false
+  },
+  {
+    "name": "Assignment30",
+    "start": "15:00",
+    "duration": 2,
+    "importance": 19,
+    "maellard": false
+  },
+  {
+    "name": "Assignment31",
+    "start": "15:30",
+    "duration": 2,
+    "importance": 28,
+    "maellard": false
+  },
+  {
+    "name": "Assignment32",
+    "start": "16:00",
+    "duration": 2,
+    "importance": 63,
+    "maellard": true
+  },
+  {
+    "name": "Assignment33",
+    "start": "16:30",
+    "duration": 2,
+    "importance": 51,
+    "maellard": false
+  },
+  {
+    "name": "Assignment34",
+    "start": "17:00",
+    "duration": 2,
+    "importance": 4,
+    "maellard": false
+  },
+  {
+    "name": "Assignment35",
+    "start": "17:30",
+    "duration": 1,
+    "importance": 92,
+    "maellard": false
+  },
+  {
+    "name": "Assignment36",
+    "start": "18:00",
+    "duration": 2,
+    "importance": 36,
+    "maellard": false
+  },
+  {
+    "name": "Assignment37",
+    "start": "18:30",
+    "duration": 1,
+    "importance": 36,
+    "maellard": true
+  },
+  {
+    "name": "Assignment38",
+    "start": "19:00",
+    "duration": 2,
+    "importance": 57,
+    "maellard": false
+  },
+  {
+    "name": "Assignment39",
+    "start": "19:30",
+    "duration": 1,
+    "importance": 67,
+    "maellard": false
+  }
+]

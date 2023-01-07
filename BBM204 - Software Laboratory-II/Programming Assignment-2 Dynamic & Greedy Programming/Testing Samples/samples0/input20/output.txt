@@ -1,0 +1,63 @@
+calculateMax(19): Prepare
+calculateMax(16): Prepare
+calculateMax(15): Prepare
+calculateMax(13): Prepare
+calculateMax(10): Prepare
+calculateMax(6): Prepare
+calculateMax(2): Prepare
+calculateMax(0): Zero
+calculateMax(1): Prepare
+calculateMax(0): Zero
+calculateMax(5): Prepare
+calculateMax(3): Prepare
+calculateMax(2): Present
+calculateMax(4): Prepare
+calculateMax(1): Present
+calculateMax(3): Present
+calculateMax(9): Prepare
+calculateMax(5): Present
+calculateMax(8): Prepare
+calculateMax(6): Present
+calculateMax(7): Prepare
+calculateMax(3): Present
+calculateMax(6): Present
+calculateMax(12): Prepare
+calculateMax(8): Present
+calculateMax(11): Prepare
+calculateMax(10): Present
+calculateMax(10): Present
+calculateMax(14): Prepare
+calculateMax(11): Present
+calculateMax(13): Present
+calculateMax(15): Present
+calculateMax(18): Prepare
+calculateMax(15): Present
+calculateMax(17): Prepare
+calculateMax(14): Present
+calculateMax(16): Present
+findSolutionDynamic(19)
+Adding Assignment{name='Assignment19', start='09:30', duration=1, importance=84, maellard=false, finish='10:30', weight=84.0} to the dynamic schedule
+findSolutionDynamic(16)
+Adding Assignment{name='Assignment17', start='08:30', duration=1, importance=24, maellard=false, finish='09:30', weight=24.0} to the dynamic schedule
+findSolutionDynamic(15)
+Adding Assignment{name='Assignment15', start='07:30', duration=1, importance=9, maellard=false, finish='08:30', weight=9.0} to the dynamic schedule
+findSolutionDynamic(13)
+Adding Assignment{name='Assignment13', start='06:30', duration=1, importance=79, maellard=true, finish='07:30', weight=79079.0} to the dynamic schedule
+findSolutionDynamic(10)
+findSolutionDynamic(9)
+findSolutionDynamic(8)
+Adding Assignment{name='Assignment9', start='04:30', duration=1, importance=38, maellard=true, finish='05:30', weight=38038.0} to the dynamic schedule
+findSolutionDynamic(6)
+findSolutionDynamic(5)
+findSolutionDynamic(4)
+Adding Assignment{name='Assignment4', start='02:00', duration=2, importance=86, maellard=true, finish='04:00', weight=43043.0} to the dynamic schedule
+findSolutionDynamic(1)
+Adding Assignment{name='Assignment0', start='00:00', duration=2, importance=60, maellard=true, finish='02:00', weight=30030.0} to the dynamic schedule
+Adding Assignment{name='Assignment1', start='00:30', duration=1, importance=79, maellard=false, finish='01:30', weight=79.0} to the greedy schedule
+Adding Assignment{name='Assignment3', start='01:30', duration=1, importance=43, maellard=true, finish='02:30', weight=43043.0} to the greedy schedule
+Adding Assignment{name='Assignment6', start='03:00', duration=1, importance=68, maellard=false, finish='04:00', weight=68.0} to the greedy schedule
+Adding Assignment{name='Assignment9', start='04:30', duration=1, importance=38, maellard=true, finish='05:30', weight=38038.0} to the greedy schedule
+Adding Assignment{name='Assignment12', start='06:00', duration=1, importance=29, maellard=false, finish='07:00', weight=29.0} to the greedy schedule
+Adding Assignment{name='Assignment14', start='07:00', duration=1, importance=6, maellard=false, finish='08:00', weight=6.0} to the greedy schedule
+Adding Assignment{name='Assignment17', start='08:30', duration=1, importance=24, maellard=false, finish='09:30', weight=24.0} to the greedy schedule
+Adding Assignment{name='Assignment19', start='09:30', duration=1, importance=84, maellard=false, finish='10:30', weight=84.0} to the greedy schedule
